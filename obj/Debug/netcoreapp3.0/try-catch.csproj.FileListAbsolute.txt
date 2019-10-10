@@ -1,0 +1,11 @@
+/Users/maggie/workspace/csharp/exercises/try-catch/bin/Debug/netcoreapp3.0/try-catch
+/Users/maggie/workspace/csharp/exercises/try-catch/bin/Debug/netcoreapp3.0/try-catch.deps.json
+/Users/maggie/workspace/csharp/exercises/try-catch/bin/Debug/netcoreapp3.0/try-catch.runtimeconfig.json
+/Users/maggie/workspace/csharp/exercises/try-catch/bin/Debug/netcoreapp3.0/try-catch.runtimeconfig.dev.json
+/Users/maggie/workspace/csharp/exercises/try-catch/bin/Debug/netcoreapp3.0/try-catch.dll
+/Users/maggie/workspace/csharp/exercises/try-catch/bin/Debug/netcoreapp3.0/try-catch.pdb
+/Users/maggie/workspace/csharp/exercises/try-catch/obj/Debug/netcoreapp3.0/try-catch.csprojAssemblyReference.cache
+/Users/maggie/workspace/csharp/exercises/try-catch/obj/Debug/netcoreapp3.0/try-catch.AssemblyInfoInputs.cache
+/Users/maggie/workspace/csharp/exercises/try-catch/obj/Debug/netcoreapp3.0/try-catch.AssemblyInfo.cs
+/Users/maggie/workspace/csharp/exercises/try-catch/obj/Debug/netcoreapp3.0/try-catch.dll
+/Users/maggie/workspace/csharp/exercises/try-catch/obj/Debug/netcoreapp3.0/try-catch.pdb
